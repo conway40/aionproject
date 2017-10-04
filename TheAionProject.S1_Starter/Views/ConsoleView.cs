@@ -24,7 +24,7 @@ namespace TheAionProject
         #region FIELDS
 
         //
-        // declare game objects for the ConsoleView object to use
+        // declare objects for the ConsoleView object to use
         //
         Traveler _gameTraveler;
 
